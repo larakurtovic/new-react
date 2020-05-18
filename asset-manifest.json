@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/larakurtovic/new-react.git/static/css/main.23b1d036.chunk.css",
+    "main.js": "/larakurtovic/new-react.git/static/js/main.4ab6e7c0.chunk.js",
+    "main.js.map": "/larakurtovic/new-react.git/static/js/main.4ab6e7c0.chunk.js.map",
+    "runtime-main.js": "/larakurtovic/new-react.git/static/js/runtime-main.d776bdde.js",
+    "runtime-main.js.map": "/larakurtovic/new-react.git/static/js/runtime-main.d776bdde.js.map",
+    "static/js/2.403ae6fa.chunk.js": "/larakurtovic/new-react.git/static/js/2.403ae6fa.chunk.js",
+    "static/js/2.403ae6fa.chunk.js.map": "/larakurtovic/new-react.git/static/js/2.403ae6fa.chunk.js.map",
+    "index.html": "/larakurtovic/new-react.git/index.html",
+    "precache-manifest.efc0c6822dac352f1d8ed70f84c402de.js": "/larakurtovic/new-react.git/precache-manifest.efc0c6822dac352f1d8ed70f84c402de.js",
+    "service-worker.js": "/larakurtovic/new-react.git/service-worker.js",
+    "static/css/main.23b1d036.chunk.css.map": "/larakurtovic/new-react.git/static/css/main.23b1d036.chunk.css.map",
+    "static/js/2.403ae6fa.chunk.js.LICENSE": "/larakurtovic/new-react.git/static/js/2.403ae6fa.chunk.js.LICENSE",
+    "static/media/palaca.jpg": "/larakurtovic/new-react.git/static/media/palaca.fef43f4e.jpg",
+    "static/media/palacaa.jpg": "/larakurtovic/new-react.git/static/media/palacaa.b2f9893b.jpg",
+    "static/media/split.jpg": "/larakurtovic/new-react.git/static/media/split.78f6d100.jpg",
+    "static/media/ssplit.jpg": "/larakurtovic/new-react.git/static/media/ssplit.2f7d8311.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d776bdde.js",
+    "static/js/2.403ae6fa.chunk.js",
+    "static/css/main.23b1d036.chunk.css",
+    "static/js/main.4ab6e7c0.chunk.js"
+  ]
+}
